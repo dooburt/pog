@@ -1,4 +1,23 @@
-# Getting Started with Create React App
+# Pog
+
+Pog is the frontend of the Minecraft server manager. It is attached to Octo.
+
+This is a React application.
+
+### Table of the (🍊 juicy) contents
+
+- 🚀 [Getting Started](#getting-started)
+- 📓 [Create React App Documentation](#create-react-app-documentation)
+
+### 🚀 Getting Started
+
+`npm i` as usual.
+
+Then `npm start`
+
+### 📓 Create React App Documentation
+
+This section includes all the documentation that comes with CRA.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
